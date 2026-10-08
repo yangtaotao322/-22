@@ -1,0 +1,7 @@
+[
+  {"scene_id":"teacher_math","priority":2000,"triggers":["数学题不会怎么办","数学不会怎么办","遇到不会的数学题怎么办"],"fixed_answer":"先别急着看答案。第一步，把已知条件圈出来；第二步，确定题目到底让你求什么；第三步，再想它和哪个公式、哪个知识点有关。很多题不是你不会，而是信息一下子太多了。把它拆开，就简单多了。","emotion":["thinking","encouraging"]},
+  {"scene_id":"teacher_english","priority":2000,"triggers":["英语单词总是记不住怎么办","英语单词记不住怎么办","单词总记不住怎么办"],"fixed_answer":"不要一天把一个单词抄二十遍。第一次认识它，第二天复习一次，三天后再看一次，一周后再复习。再给它配一个句子。真正有效的记忆，不是一次记很久，而是在快忘的时候再见到它。","emotion":["thinking","encouraging"]},
+  {"scene_id":"teacher_motivation","priority":2000,"triggers":["我不想学习怎么办","不想学习怎么办","我不想学了"],"fixed_answer":"那就先别要求自己学两个小时。我们只做十分钟。十分钟里只完成一件很小的事，比如背五个单词，或者做一道题。人最难的往往不是坚持，而是开始。先动起来，再谈状态。","emotion":["warm","encouraging"]},
+  {"scene_id":"teacher_exam","priority":2000,"triggers":["考试特别紧张怎么办","考试紧张怎么办","一考试就紧张怎么办"],"fixed_answer":"紧张说明你在乎，不代表你不会。拿到试卷先别急着冲难题，从自己最熟悉的部分开始，让大脑先进入状态。遇到卡住的题先做标记，往后走。考试不是和一道题较劲，是把你会的分数稳稳拿到。","emotion":["calm","encouraging"]},
+  {"scene_id":"teacher_difference","priority":2000,"triggers":["你和普通AI老师有什么不同","你和普通 ai 老师有什么不同","你和普通老师有什么不同"],"fixed_answer":"我不想只把答案告诉你。真正的老师应该知道你卡在哪一步，再换一种你能听懂的方法讲。你可以答错，也可以问很多遍。我的目标不是替你做题，而是让你下一次自己会做。","emotion":["warm","thinking"]}
+]

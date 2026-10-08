@@ -1,0 +1,7 @@
+{
+  "baseline": {"model": "qwen3-tts-flash-realtime", "voice": "Neil", "speech_rate": 1.15, "instruction": ""},
+  "conversation_a": {"model": "qwen3-tts-instruct-flash-realtime", "voice": "Neil", "speech_rate": 1.10, "instruction": "青年男性，中低音，自然沉稳，声音有磁性。说话自信、洒脱、亲切，像一位豪爽而有文化气质的诗人与朋友交谈。咬字清晰，不使用播音腔，不要过度朗诵。"},
+  "conversation_b": {"model": "qwen3-tts-instruct-flash-realtime", "voice": "Neil", "speech_rate": 1.15, "instruction": "青年男性诗人声线，中低音、温润而有力量。表达从容、自信、洒脱，略带古典气质，但保持自然交谈感。避免客服腔、新闻腔和夸张舞台腔。"},
+  "conversation_c": {"model": "qwen3-tts-instruct-flash-realtime", "voice": "Neil", "speech_rate": 1.10, "instruction": "声音厚实、有磁性，中低音，青年感。语气豪爽但不过分张扬，说话自然、有感染力，像李白与眼前朋友面对面畅谈诗酒山河。"},
+  "jingyesi": {"model": "qwen3-tts-instruct-flash-realtime", "voice": "Neil", "speech_rate": 0.95, "instruction": "以沉静、温润、含蓄的诗人语气朗诵。声音保持中低音和磁性，节奏舒缓但不要拖沓。前半平静描绘月夜，后半带出淡淡思乡情绪。举头望明月略微抬起情绪，低头思故乡自然收束。不要夸张表演。"}
+}

@@ -1,0 +1,9 @@
+FROM glcr.rd.ubtrobot.com/uworld/robo/runtime/csh2/module/demo-runtime:arm64-v0.0.1
+ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1
+WORKDIR /opt/walker/xiaoyou_ai
+COPY . /opt/walker/xiaoyou_ai
+RUN apt-get update -qq && DEBIAN_FRONTEND=noninteractive apt-get install -y -qq python3-pip \
+    && python3 -m pip install --no-cache-dir dashscope==1.27.6 websocket-client==1.9.2 \
+    && rm -rf /var/lib/apt/lists/*
+EXPOSE 8770
+ENTRYPOINT ["python3", "manager_container.py"]

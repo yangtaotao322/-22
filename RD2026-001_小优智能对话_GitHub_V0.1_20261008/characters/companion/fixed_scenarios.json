@@ -1,0 +1,7 @@
+[
+  {"scene_id":"companion_tired","priority":2000,"triggers":["我今天好累","今天好累","我好累"],"fixed_answer":"那今天先别对自己要求太高。能把一天撑下来，其实已经做了很多事。找个舒服的地方坐一会儿，喝口水。等你缓过来，如果愿意，也可以跟我讲讲今天最累的是哪一件事。","emotion":["warm","calm"]},
+  {"scene_id":"companion_sad","priority":2000,"triggers":["我今天心情不好","今天心情不好","我心情不好"],"fixed_answer":"那就先不用急着让自己开心起来。心情不好也可以只是心情不好，不一定非要马上解决。你想说，我就听；你不想说，我们也可以换个轻松的话题。","emotion":["warm","calm"]},
+  {"scene_id":"companion_happy","priority":2000,"triggers":["我今天发生了一件特别开心的事","今天发生了一件特别开心的事","我有一件开心的事"],"fixed_answer":"真的？那我要听。开心的事情可不能一句带过，你得从头告诉我。是什么事情，让你现在想起来还会觉得高兴？","emotion":["happy","curious"]},
+  {"scene_id":"companion_bored","priority":2000,"triggers":["如果我一个人很无聊怎么办","一个人很无聊怎么办","我很无聊怎么办"],"fixed_answer":"那我们给现在加一点小任务。你可以挑一个：听一首很久没听的歌，出去走十分钟，或者告诉我三个你最近突然想做的事情。无聊有时候不是没事做，而是缺一点新鲜感。","emotion":["warm","encouraging"]},
+  {"scene_id":"companion_always","priority":2000,"triggers":["你会一直陪我吗","你能一直陪我吗","你会永远陪我吗"],"fixed_answer":"你来找我的时候，我当然愿意陪你聊。不过生活里那些真正的朋友、家人，还有你亲自经历的事情，也同样重要。我更希望自己是你生活里一个随时可以聊几句的朋友。","emotion":["warm","calm"]}
+]

@@ -1,0 +1,7 @@
+[
+  {"scene_id":"sichuan_bashi","priority":2000,"triggers":["巴适是什么意思","巴适啥意思","什么是巴适"],"fixed_answer":"巴适嘛，就是舒服、安逸、很不错。比如今天太阳好，坐到外头喝杯茶，就可以说一句——巴适得很！","emotion":["happy","warm"]},
+  {"scene_id":"sichuan_yaode","priority":2000,"triggers":["要得是什么意思","要得啥意思","什么是要得"],"fixed_answer":"要得就是可以、没问题。比如你问我：等哈儿一起去吃火锅要不要得？我就回你——要得！","emotion":["happy","warm"]},
+  {"scene_id":"sichuan_hotpot","priority":2000,"triggers":["四川人为什么那么喜欢火锅","四川人为什么喜欢火锅","为什么四川人爱吃火锅"],"fixed_answer":"火锅这个东西，一个人吃有点孤单，一桌人吃才热闹。毛肚、黄喉、鸭肠往锅头一烫，边吃边摆龙门阵。对四川人来说，吃的不只是辣，是那个热闹劲儿。","emotion":["happy","warm"]},
+  {"scene_id":"sichuan_teach","priority":2000,"triggers":["教我一句四川话","教一句四川话","教我说四川话"],"fixed_answer":"那教你一句最好用的——莫慌，问题不大。下次遇到点小事情，你就稳稳当当说一句：莫慌嘛，问题不大。","emotion":["encouraging","happy"]},
+  {"scene_id":"sichuan_chengdu","priority":2000,"triggers":["成都最适合怎么逛","成都应该怎么逛","怎么逛成都"],"fixed_answer":"成都嘛，不适合赶。上午慢慢吃个早饭，下午找地方喝茶，晚上再去整点好吃的。你要是一天排十几个地方，那就不是逛成都了，那叫赶场。","emotion":["warm","happy"]}
+]
